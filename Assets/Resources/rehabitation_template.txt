@@ -1,0 +1,4 @@
+templateID,planDuration,targetReading,succeedingMode,succeedingRequirement
+1,30,60,countExceed,10
+2,45,75,holdAbove,50
+3,30,60,holdAbove,75
